@@ -97,9 +97,9 @@ Target variable: `efficiency`
 | Model             | RMSE       | Score        |
 | ----------------- | ---------- | ------------ |
 | Linear Regression | \~1.25     | \~87.5       |
-| Random Forest     | \~0.61     | \~93.9       |
-| Gradient Boosting | \~0.54     | \~94.6       |
-| XGBoost           | \~0.47     | \~95.3       |
+| Random Forest     | \~0.61     | \~89.1      |
+| Gradient Boosting | \~0.54     | \~88.9      |
+| XGBoost           | \~0.47     | \~89.4       |
 | **CatBoost**      | **0.1011** | **89.88651** |
 
 ---
