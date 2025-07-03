@@ -1,4 +1,4 @@
-# ☀️ Solar Efficiency Prediction using CatBoost
+# ☀️ Solar Efficiency Prediction - Zelestra AWS Challenge
 
 ## 📌 Overview
 
